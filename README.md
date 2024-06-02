@@ -9,12 +9,12 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 
 Live Dashboard Link
-https://app.powerbi.com/view?r=eyJrIjoiZDgzNWFmOTUtZmY3OC00ZjdmLWE1NWEtNmU2YTlkOTRiMjAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiNTM2NmNjYjktM2M5Ny00YTc2LTgwMWQtM2UzZjZiMGQ2ZTIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Key Business Metrics:
 
 
-**Revenue**
+- [x] Revenue
 - [x] Occupancy%.
 - [x] ADR(Average Daily Rate)
 - [x] Realization %
