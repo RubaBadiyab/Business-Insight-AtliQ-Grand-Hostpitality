@@ -30,7 +30,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZDgzNWFmOTUtZmY3OC00ZjdmLWE1NWEtNmU2YTlkO
 - [x] PowerBI services for publishing and sharing reports online
 - [x] Auto refresh setup for data through gateway
 
- **Tools Used **
+ **Tools Used**
 - [x] PowerBI Desktop
 - [x] PowerBI Service
 - [x] MS.EXCEL
