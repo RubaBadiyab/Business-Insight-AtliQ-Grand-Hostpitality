@@ -32,10 +32,10 @@ https://app.powerbi.com/view?r=eyJrIjoiZDgzNWFmOTUtZmY3OC00ZjdmLWE1NWEtNmU2YTlkO
 
  **Tools Used **
 - [x] PowerBI Desktop
-- [x]PowerBI Service
-- [x]MS.EXCEL
-- [x]Power Query
-- [x]DAX language
+- [x] PowerBI Service
+- [x] MS.EXCEL
+- [x] Power Query
+- [x] DAX language
 
 
 
